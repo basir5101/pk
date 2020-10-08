@@ -1,0 +1,35 @@
+body{
+    background: black;
+}
+.nav-link {
+    padding: 6px 16px;
+    color: white;
+    margin: 0px 4px;
+
+  }
+  
+  /* Style the active class (and buttons on mouse-over) */
+  .active, .nav-link:hover {
+    background-color: black;
+    border-radius: 3px;
+    transition: 500ms;
+  }
+ .auction h3, .footer h3{ 
+     color: gold
+ }
+
+ .fantastic3{
+     box-shadow: 0px 0px 5px 3px gold;
+     border-radius: 10px;
+ }
+ 
+ .auctions img{
+     margin: 20px;
+     box-shadow: 0px 0px 5px 3px gold;
+     cursor: pointer;
+ }
+
+
+ .footer li a{
+     padding: 3px 10px;
+ }
